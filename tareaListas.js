@@ -47,4 +47,3 @@ const listaFactorProgapación = [...directores, ...titulos];
 console.log(listaFactorProgapación);
 
 
-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
